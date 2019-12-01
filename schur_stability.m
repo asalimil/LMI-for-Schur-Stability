@@ -1,4 +1,4 @@
-%% LMI for Matrix Norm Minimization
+%% LMI for Schur Stabilization
 clc; clear; close all;
 
 A = [0  0   1  0
